@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575942891593",
+    "project_id": "coursera-a8790",
+    "storage_bucket": "coursera-a8790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575942891593:android:c4f46ec314ee3afbbe8798",
+        "android_client_info": {
+          "package_name": "com.example.coursera_mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575942891593-ttbbc5qhav8pn061rpjlumfc6eamjhic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcKm5Tk2BOv8Wuoc2MAX3kfjXsi-6xT6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575942891593-ttbbc5qhav8pn061rpjlumfc6eamjhic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
